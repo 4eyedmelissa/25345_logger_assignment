@@ -1,4 +1,4 @@
-# assignment2
+# Logger assignment
 1. What is Logging?
 Logging is the process of recording events, messages, or other types of data within a software application. It involves capturing information about the system's     
 operation, user actions, errors, and other significant events that occur during the execution of a program. 
